@@ -1,0 +1,122 @@
+{
+  "project_info": {
+    "project_number": "14847780166",
+    "firebase_url": "https://baber-71124.firebaseio.com",
+    "project_id": "baber-71124",
+    "storage_bucket": "baber-71124.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:14847780166:android:0452a56dd95007b384f147",
+        "android_client_info": {
+          "package_name": "com.example.androidbaberstaffapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "14847780166-eeb140766v01p1m0h3auno7mlfaisdk0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.androidbaberstaffapp",
+            "certificate_hash": "93d3b6390b1ebb307dc7ff94eda3485f9ad13489"
+          }
+        },
+        {
+          "client_id": "14847780166-1qhhpo4k8da6e1559cauj58vscr4jihg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB2lHZSc1zAikiZhPYf7mrrcWgBg8vJop8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "14847780166-1qhhpo4k8da6e1559cauj58vscr4jihg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:14847780166:android:e2bc5f0946ed0add84f147",
+        "android_client_info": {
+          "package_name": "com.team5.anqq.staffbarber"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "14847780166-mn0skubepfdo00jmsfelol8q3ipdr1s4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.team5.anqq.staffbarber",
+            "certificate_hash": "93d3b6390b1ebb307dc7ff94eda3485f9ad13489"
+          }
+        },
+        {
+          "client_id": "14847780166-1qhhpo4k8da6e1559cauj58vscr4jihg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB2lHZSc1zAikiZhPYf7mrrcWgBg8vJop8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "14847780166-1qhhpo4k8da6e1559cauj58vscr4jihg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:14847780166:android:f2ca663aa970833984f147",
+        "android_client_info": {
+          "package_name": "com.teamnaqq.androidbaberbooking"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "14847780166-l516r1hp8ohd00f36uubfv6fpnofro19.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.teamnaqq.androidbaberbooking",
+            "certificate_hash": "93d3b6390b1ebb307dc7ff94eda3485f9ad13489"
+          }
+        },
+        {
+          "client_id": "14847780166-1qhhpo4k8da6e1559cauj58vscr4jihg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB2lHZSc1zAikiZhPYf7mrrcWgBg8vJop8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "14847780166-1qhhpo4k8da6e1559cauj58vscr4jihg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

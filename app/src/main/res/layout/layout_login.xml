@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <LinearLayout
+        android:orientation="vertical"
+        android:layout_gravity="center"
+        android:gravity="center"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <TextView
+            android:id="@+id/txt_title"
+            android:text="Staff Login"
+            android:textColor="@android:color/white"
+            android:textAppearance="@android:style/TextAppearance.Large"
+            android:fontFamily="@font/bellerose"
+            android:gravity="center_horizontal"
+            android:background="@color/colorPrimary"
+            android:padding="10dp"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content" />
+
+        <com.google.android.material.textfield.TextInputEditText
+            android:id="@+id/edt_user"
+            android:layout_margin="8dp"
+            android:hint="Username"
+            android:fontFamily="@font/bellerose"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content" />
+
+        <com.google.android.material.textfield.TextInputEditText
+            android:id="@+id/edt_password"
+            android:layout_margin="8dp"
+            android:hint="Password"
+            android:fontFamily="@font/bellerose"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content" />
+
+    </LinearLayout>
+
+
+    <LinearLayout
+        android:orientation="horizontal"
+        android:weightSum="4"
+        android:gravity="center_horizontal"
+        android:layout_marginBottom="10dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <Button
+            android:id="@+id/btn_login"
+            android:layout_marginLeft="20dp"
+            android:layout_marginRight="10dp"
+            android:layout_centerHorizontal="true"
+            android:background="@color/colorPrimaryDark"
+            android:fontFamily="@font/bellerose"
+            android:textColor="@android:color/white"
+            android:paddingLeft="10dp"
+            android:paddingRight="10dp"
+            android:layout_weight="2"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content" />
+
+        <Button
+            android:id="@+id/btn_cancel"
+            android:layout_marginLeft="20dp"
+            android:layout_marginRight="10dp"
+            android:layout_centerHorizontal="true"
+            android:background="@color/colorPrimaryDark"
+            android:fontFamily="@font/bellerose"
+            android:textColor="@android:color/white"
+            android:paddingLeft="10dp"
+            android:paddingRight="10dp"
+            android:layout_weight="2"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content" />
+
+
+    </LinearLayout>
+
+</LinearLayout>
